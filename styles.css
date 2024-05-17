@@ -12,9 +12,6 @@ border-radius: 25px;
  
 }
 
-#frm {
-  border: 3px solid red; 
-}
 
 
 .Inquires-image {
@@ -77,13 +74,5 @@ main {
     margin: 20px auto;
     background-color: white;
     border-radius: 40;
-}
-
-section {
-    margin-bottom: 20px;
-}
-
-section h2 {
-    margin-top: 0;
 }
 
