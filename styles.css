@@ -13,7 +13,7 @@ border-radius: 25px;
 }
 
 #frm {
-  border: 3px solid red; 
+  border: 3px white; 
 }
 
 
@@ -50,14 +50,7 @@ header {
    
 }
 
-header h1 {
-    margin: 0;
-}
 
-
-nav ul li {
-    margin: 0;
-}
 
 nav ul li a:hover {
     display: block;
@@ -79,11 +72,5 @@ main {
     border-radius: 40;
 }
 
-section {
-    margin-bottom: 20px;
-}
 
-section h2 {
-    margin-top: 0;
-}
 
