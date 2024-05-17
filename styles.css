@@ -55,7 +55,7 @@ header {
 nav ul li a:hover {
     display: block;
     padding: 15px 20px;
-    color: rgba(255, 255, 255, 0.255);
+    color: gray;
     border-radius: 25;
     
 }
