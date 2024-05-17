@@ -1,0 +1,89 @@
+
+.header-cards {
+background: white;
+height: 150px;
+border-radius: 25px;
+
+}
+
+.header-form {
+  margin-top: -30%;
+ background: #ffffff;
+ 
+}
+
+#frm {
+  border: 3px solid red; 
+}
+
+
+.Inquires-image {
+background: #ffffff;
+height: 500px;
+padding: 15px 20px;
+}
+
+
+.Navigation {
+    background: white;
+    height: 300px;
+    margin-bottom: 20px;
+    padding: 15px 20px;
+}
+
+
+
+.Member-bootstrap {
+    
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #444;
+    color: white;
+    text-align: center;
+    padding: 15px 20px;
+    border-radius: 25;
+   
+}
+
+header h1 {
+    margin: 0;
+}
+
+
+nav ul li {
+    margin: 0;
+}
+
+nav ul li a {
+    display: block;
+    padding: 15px 20px;
+    color: rgba(255, 255, 255, 0.255);
+    border-radius: 25;
+    
+}
+
+nav ul li a:hover {
+    background-color: #4c4248;
+}
+
+main {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 20px auto;
+    background-color: white;
+    border-radius: 40;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    margin-top: 0;
+}
+
