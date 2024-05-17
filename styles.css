@@ -13,7 +13,7 @@ border-radius: 25px;
 }
 
 #frm {
-  border: 3px solid red; 
+  border: 3px solid rgb(253, 251, 251); 
 }
 
 
@@ -50,19 +50,12 @@ header {
    
 }
 
-header h1 {
-    margin: 0;
-}
 
-
-nav ul li {
-    margin: 0;
-}
 
 nav ul li a {
     display: block;
     padding: 15px 20px;
-    color: rgba(255, 255, 255, 0.255);
+    color: gray;
     border-radius: 25;
     
 }
@@ -78,12 +71,3 @@ main {
     background-color: white;
     border-radius: 40;
 }
-
-section {
-    margin-bottom: 20px;
-}
-
-section h2 {
-    margin-top: 0;
-}
-
